@@ -1,7 +1,12 @@
 import "./App.css";
+import Decks from "./components/decks/Decks.jsx";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Deckgit s />
+    </>
+  );
 }
 
 export default App;
